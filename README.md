@@ -4,3 +4,6 @@ Power Distribution is wide spread and the fault detection has become very diffic
 
 
 PYNQMASTER.ipynb must be include in the Pynq image file at :: PYNQ/boards/Pynq-Z2/base/notebooks/microblaze/PYNQMASTER.ipynb
+
+
+to see youtube Video :https://www.youtube.com/watch?v=bC3o-dNfQNE&feature=youtu.be
