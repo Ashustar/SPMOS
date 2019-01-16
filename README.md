@@ -14,7 +14,20 @@ Power Distribution is wide spread and the fault detection has become very diffic
 
 
 ##### Application Preview 
-❮img src ="Smart-Power-Monitoring-System/app/Smartpowerpole.png" width="100" ❯
+![spmosmain](https://user-images.githubusercontent.com/23277604/51226310-e3c8d000-1974-11e9-813a-09e4c7d344c7.png)
+![spmos](https://user-images.githubusercontent.com/23277604/51226328-fa6f2700-1974-11e9-960e-4d78bf9ac1bf.png)
+
+
+
+
+#### Auto circuit Breaker
+![acb](https://user-images.githubusercontent.com/23277604/51228572-18418980-197f-11e9-90c5-7b56258a3538.png)
+
+#### Pynq Control Unit
+![pynq](https://user-images.githubusercontent.com/23277604/51228287-de23b800-197d-11e9-855d-6c7037529f3b.png)
+
+#### Control Unit
+![spmos control](https://user-images.githubusercontent.com/23277604/51228945-83d82680-1980-11e9-9fec-aa07cc703cf8.png)
 
 PYNQMASTER.ipynb must be include in the Pynq image file at :: PYNQ    boards/base/notebooks/microblaze/PYNQMASTER.ipynb
 
